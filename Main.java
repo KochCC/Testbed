@@ -8,8 +8,6 @@
 // Pie
 // Pie
 // Pie
-//Testing update
-//Testing update 2
 import java.util.*;
 
 public class Main {
